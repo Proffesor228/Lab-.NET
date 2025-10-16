@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\ConsoleAppLaba1\bin\Debug\ConsoleAppLaba1.exe.config
+C:\Users\Administrator\source\repos\ConsoleAppLaba1\bin\Debug\ConsoleAppLaba1.exe
+C:\Users\Administrator\source\repos\ConsoleAppLaba1\bin\Debug\ConsoleAppLaba1.pdb
+C:\Users\Administrator\source\repos\ConsoleAppLaba1\obj\Debug\ConsoleAppLaba1.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\ConsoleAppLaba1\obj\Debug\ConsoleAppLaba1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleAppLaba1\obj\Debug\ConsoleAppLaba1.exe
+C:\Users\Administrator\source\repos\ConsoleAppLaba1\obj\Debug\ConsoleAppLaba1.pdb
+D:\Downolads\ConsoleAppLaba1\bin\Debug\ConsoleAppLaba1.exe.config
+D:\Downolads\ConsoleAppLaba1\bin\Debug\ConsoleAppLaba1.exe
+D:\Downolads\ConsoleAppLaba1\bin\Debug\ConsoleAppLaba1.pdb
+D:\Downolads\ConsoleAppLaba1\obj\Debug\ConsoleAppLaba1.csproj.AssemblyReference.cache
+D:\Downolads\ConsoleAppLaba1\obj\Debug\ConsoleAppLaba1.csproj.CoreCompileInputs.cache
+D:\Downolads\ConsoleAppLaba1\obj\Debug\ConsoleAppLaba1.exe
+D:\Downolads\ConsoleAppLaba1\obj\Debug\ConsoleAppLaba1.pdb
