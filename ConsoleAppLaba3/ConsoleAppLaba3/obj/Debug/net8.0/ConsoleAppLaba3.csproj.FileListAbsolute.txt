@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\ConsoleAppLaba3\ConsoleAppLaba3\bin\Debug\net8.0\ConsoleAppLaba3.exe
+C:\Users\PC\source\repos\ConsoleAppLaba3\ConsoleAppLaba3\bin\Debug\net8.0\ConsoleAppLaba3.deps.json
+C:\Users\PC\source\repos\ConsoleAppLaba3\ConsoleAppLaba3\bin\Debug\net8.0\ConsoleAppLaba3.runtimeconfig.json
+C:\Users\PC\source\repos\ConsoleAppLaba3\ConsoleAppLaba3\bin\Debug\net8.0\ConsoleAppLaba3.dll
+C:\Users\PC\source\repos\ConsoleAppLaba3\ConsoleAppLaba3\bin\Debug\net8.0\ConsoleAppLaba3.pdb
+C:\Users\PC\source\repos\ConsoleAppLaba3\ConsoleAppLaba3\obj\Debug\net8.0\ConsoleAppLaba3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\ConsoleAppLaba3\ConsoleAppLaba3\obj\Debug\net8.0\ConsoleAppLaba3.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ConsoleAppLaba3\ConsoleAppLaba3\obj\Debug\net8.0\ConsoleAppLaba3.AssemblyInfo.cs
+C:\Users\PC\source\repos\ConsoleAppLaba3\ConsoleAppLaba3\obj\Debug\net8.0\ConsoleAppLaba3.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ConsoleAppLaba3\ConsoleAppLaba3\obj\Debug\net8.0\ConsoleAppLaba3.dll
+C:\Users\PC\source\repos\ConsoleAppLaba3\ConsoleAppLaba3\obj\Debug\net8.0\refint\ConsoleAppLaba3.dll
+C:\Users\PC\source\repos\ConsoleAppLaba3\ConsoleAppLaba3\obj\Debug\net8.0\ConsoleAppLaba3.pdb
+C:\Users\PC\source\repos\ConsoleAppLaba3\ConsoleAppLaba3\obj\Debug\net8.0\ConsoleAppLaba3.genruntimeconfig.cache
+C:\Users\PC\source\repos\ConsoleAppLaba3\ConsoleAppLaba3\obj\Debug\net8.0\ref\ConsoleAppLaba3.dll
