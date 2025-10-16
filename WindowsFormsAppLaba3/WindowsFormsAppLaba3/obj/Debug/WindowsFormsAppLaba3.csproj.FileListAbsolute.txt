@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\WindowsFormsAppLaba3\WindowsFormsAppLaba3\obj\Debug\WindowsFormsAppLaba3.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\WindowsFormsAppLaba3\WindowsFormsAppLaba3\obj\Debug\HelloApp.SeriesSumForm.resources
+C:\Users\PC\source\repos\WindowsFormsAppLaba3\WindowsFormsAppLaba3\obj\Debug\WindowsFormsAppLaba3.Properties.Resources.resources
+C:\Users\PC\source\repos\WindowsFormsAppLaba3\WindowsFormsAppLaba3\obj\Debug\WindowsFormsAppLaba3.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\WindowsFormsAppLaba3\WindowsFormsAppLaba3\obj\Debug\WindowsFormsAppLaba3.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\WindowsFormsAppLaba3\WindowsFormsAppLaba3\bin\Debug\WindowsFormsAppLaba3.exe.config
+C:\Users\PC\source\repos\WindowsFormsAppLaba3\WindowsFormsAppLaba3\bin\Debug\WindowsFormsAppLaba3.exe
+C:\Users\PC\source\repos\WindowsFormsAppLaba3\WindowsFormsAppLaba3\bin\Debug\WindowsFormsAppLaba3.pdb
+C:\Users\PC\source\repos\WindowsFormsAppLaba3\WindowsFormsAppLaba3\obj\Debug\WindowsFormsAppLaba3.exe
+C:\Users\PC\source\repos\WindowsFormsAppLaba3\WindowsFormsAppLaba3\obj\Debug\WindowsFormsAppLaba3.pdb
+C:\Users\PC\source\repos\WindowsFormsAppLaba3\WindowsFormsAppLaba3\obj\Debug\WindowsFormsAppLaba3.exe.config
+C:\Users\PC\source\repos\WindowsFormsAppLaba3\WindowsFormsAppLaba3\obj\Debug\HelloApp.MainMenuForm.resources
+C:\Users\PC\source\repos\WindowsFormsAppLaba3\WindowsFormsAppLaba3\obj\Debug\HelloApp.FormsTasksForm.resources
+C:\Users\PC\source\repos\WindowsFormsAppLaba3\WindowsFormsAppLaba3\obj\Debug\HelloApp.FunctionCalculationForm.resources
+C:\Users\PC\source\repos\WindowsFormsAppLaba3\WindowsFormsAppLaba3\obj\Debug\HelloApp.Zad3Form.resources
+C:\Users\PC\source\repos\WindowsFormsAppLaba3\WindowsFormsAppLaba3\obj\Debug\HelloApp.Zad4Form.resources
