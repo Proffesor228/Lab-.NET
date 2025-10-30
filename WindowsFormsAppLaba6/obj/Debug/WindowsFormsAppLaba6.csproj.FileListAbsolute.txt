@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\WindowsFormsAppLaba6\bin\Debug\WindowsFormsAppLaba6.exe.config
+C:\Users\PC\source\repos\WindowsFormsAppLaba6\bin\Debug\WindowsFormsAppLaba6.exe
+C:\Users\PC\source\repos\WindowsFormsAppLaba6\bin\Debug\WindowsFormsAppLaba6.pdb
+C:\Users\PC\source\repos\WindowsFormsAppLaba6\obj\Debug\WindowsFormsAppLaba6.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\WindowsFormsAppLaba6\obj\Debug\WindowsFormsAppLaba6.Form1.resources
+C:\Users\PC\source\repos\WindowsFormsAppLaba6\obj\Debug\WindowsFormsAppLaba6.Properties.Resources.resources
+C:\Users\PC\source\repos\WindowsFormsAppLaba6\obj\Debug\WindowsFormsAppLaba6.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\WindowsFormsAppLaba6\obj\Debug\WindowsFormsAppLaba6.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\WindowsFormsAppLaba6\obj\Debug\WindowsFormsAppLaba6.exe
+C:\Users\PC\source\repos\WindowsFormsAppLaba6\obj\Debug\WindowsFormsAppLaba6.pdb
+C:\Users\PC\source\repos\WindowsFormsAppLaba6\obj\Debug\WindowsFormsAppLaba6.exe.config
