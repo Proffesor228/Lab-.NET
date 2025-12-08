@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\Lab11_Inheritance\bin\Debug\Lab11_Inheritance.exe.config
+C:\Users\PC\source\repos\Lab11_Inheritance\bin\Debug\Lab11_Inheritance.exe
+C:\Users\PC\source\repos\Lab11_Inheritance\bin\Debug\Lab11_Inheritance.pdb
+C:\Users\PC\source\repos\Lab11_Inheritance\obj\Debug\Lab11_Inheritance.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Lab11_Inheritance\obj\Debug\Lab11_Inheritance.Properties.Resources.resources
+C:\Users\PC\source\repos\Lab11_Inheritance\obj\Debug\Lab11_Inheritance.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Lab11_Inheritance\obj\Debug\Lab11_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Lab11_Inheritance\obj\Debug\Lab11_Inheritance.exe
+C:\Users\PC\source\repos\Lab11_Inheritance\obj\Debug\Lab11_Inheritance.pdb
+C:\Users\PC\source\repos\Lab11_Inheritance\obj\Debug\Lab11_Inheritance.exe.config
