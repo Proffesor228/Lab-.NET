@@ -1,0 +1,9 @@
+C:\Users\PC\source\repos\Lab8_FileOperations\bin\Debug\Lab8_FileOperations.exe.config
+C:\Users\PC\source\repos\Lab8_FileOperations\bin\Debug\Lab8_FileOperations.exe
+C:\Users\PC\source\repos\Lab8_FileOperations\bin\Debug\Lab8_FileOperations.pdb
+C:\Users\PC\source\repos\Lab8_FileOperations\obj\Debug\Lab8_FileOperations.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Lab8_FileOperations\obj\Debug\Lab8_FileOperations.Properties.Resources.resources
+C:\Users\PC\source\repos\Lab8_FileOperations\obj\Debug\Lab8_FileOperations.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Lab8_FileOperations\obj\Debug\Lab8_FileOperations.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Lab8_FileOperations\obj\Debug\Lab8_FileOperations.exe
+C:\Users\PC\source\repos\Lab8_FileOperations\obj\Debug\Lab8_FileOperations.pdb
