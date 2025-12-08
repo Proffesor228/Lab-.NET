@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\Lab9_BinaryFiles\bin\Debug\Lab9_BinaryFiles.exe.config
+C:\Users\PC\source\repos\Lab9_BinaryFiles\bin\Debug\Lab9_BinaryFiles.exe
+C:\Users\PC\source\repos\Lab9_BinaryFiles\bin\Debug\Lab9_BinaryFiles.pdb
+C:\Users\PC\source\repos\Lab9_BinaryFiles\obj\Debug\Lab9_BinaryFiles.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Lab9_BinaryFiles\obj\Debug\Lab9_BinaryFiles.Properties.Resources.resources
+C:\Users\PC\source\repos\Lab9_BinaryFiles\obj\Debug\Lab9_BinaryFiles.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Lab9_BinaryFiles\obj\Debug\Lab9_BinaryFiles.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Lab9_BinaryFiles\obj\Debug\Lab9_BinaryFiles.exe
+C:\Users\PC\source\repos\Lab9_BinaryFiles\obj\Debug\Lab9_BinaryFiles.pdb
+C:\Users\PC\source\repos\Lab9_BinaryFiles\obj\Debug\Lab9_BinaryFiles.exe.config
+C:\Users\PC\source\repos\Lab9_BinaryFiles\obj\Debug\Lab9_BinaryFiles.Form1.resources

@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\Lab10_Authorization\bin\Debug\Lab10_Authorization.exe.config
+C:\Users\PC\source\repos\Lab10_Authorization\bin\Debug\Lab10_Authorization.exe
+C:\Users\PC\source\repos\Lab10_Authorization\bin\Debug\Lab10_Authorization.pdb
+C:\Users\PC\source\repos\Lab10_Authorization\obj\Debug\Lab10_Authorization.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Lab10_Authorization\obj\Debug\Lab10_Authorization.Properties.Resources.resources
+C:\Users\PC\source\repos\Lab10_Authorization\obj\Debug\Lab10_Authorization.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Lab10_Authorization\obj\Debug\Lab10_Authorization.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Lab10_Authorization\obj\Debug\Lab10_Authorization.exe
+C:\Users\PC\source\repos\Lab10_Authorization\obj\Debug\Lab10_Authorization.pdb
+C:\Users\PC\source\repos\Lab10_Authorization\obj\Debug\Lab10_Authorization.exe.config
